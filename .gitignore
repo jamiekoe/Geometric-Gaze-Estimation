@@ -6,26 +6,5 @@ __pycache__/
 venv/
 .venv/
 *.egg-info/
+
 results/
-
-# Local files that are not part of the public repository.
-old/
-
-# Do not vendor external model repositories in src/.
-src/ext/
-
-# Local/generated experiment artifacts. The public sample is unignored below.
-data/*
-!data/README.md
-!data/exp/
-!data/exp/**
-data/exp/**/.DS_Store
-
-data/exp/ipad/
-data/exp/**/pog/
-data/exp/results/
-data/exp/model_*/
-data/exp/**/landmarks/
-data/exp/**/preds_*.npy
-data/exp/**/cleardepth_debug/
-data/exp/vis_*.png
