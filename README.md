@@ -15,6 +15,7 @@ Jamie Koerner and Vivienne Sze, "ClearDepth: Addressing Depth Distortions Caused
 Install the Python packages needed to run the code:
 
 ```
+pip install torch --index-url https://download.pytorch.org/whl/cpu
 pip install -r requirements.txt
 ```
 

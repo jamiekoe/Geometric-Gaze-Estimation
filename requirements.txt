@@ -1,8 +1,7 @@
-numpy>=1.24
+numpy>=1.24,<2.4
 scipy>=1.10
 matplotlib>=3.7
 opencv-python>=4.8
 natsort>=8.4
-torch>=2.0
 insightface>=0.7
 onnxruntime>=1.16
