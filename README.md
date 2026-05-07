@@ -168,11 +168,11 @@ The visualization marks the eye-scan pixels selected by ClearDepth for pupil-dep
 
 ```
 @inproceedings{koerner2024cleardepth,
-  author = {Koerner, Jamie and Sze, Vivienne},
-  title = {ClearDepth: Addressing Depth Distortions Caused By Eyelashes For Accurate Geometric Gaze Estimation On Mobile Devices},
-  booktitle = {2024 IEEE International Conference on Image Processing (ICIP)},
-  pages = {2135--2141},
-  year = {2024},
-  doi = {10.1109/ICIP51287.2024.10647998}
+  title={ClearDepth: Addressing Depth Distortions Caused By Eyelashes For Accurate Geometric Gaze Estimation On Mobile Devices},
+  author={Koerner, Jamie and Sze, Vivienne},
+  booktitle={2024 IEEE International Conference on Image Processing (ICIP)},
+  pages={2135--2141},
+  year={2024},
+  organization={IEEE}
 }
 ```
